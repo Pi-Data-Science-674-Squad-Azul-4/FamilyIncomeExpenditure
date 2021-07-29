@@ -1,6 +1,6 @@
 # Data de entrega (limite, final): 02/08
-<img width="30%" src="logoLcPng.png">
 <img width="50%" src="logoLcPng.png">
+<img width="50%" src="strategia.jpg">
 # Mas, preferencialmente, dia 26/07, pra dar tempo de descansar
 
 A Autoridade De Estatística das Filipinas (PSA) lidera a realização da Pesquisa de Renda e Despesa Familiar (FIES) em todo o país. A pesquisa, realizada a cada 3 (três) anos, tem como objetivo fornecer dados sobre renda e despesas familiares, incluindo, entre outros, níveis de consumo por item de despesa, fontes de renda em dinheiro e informações relacionadas que afetam a renda e níveis de despesas e padrões nas Filipinas. Dessa forma, pede-se que seja elaborado um relatório prévio com insights e análise de dados por parte de um cientista de dados.
